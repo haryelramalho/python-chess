@@ -1,0 +1,22 @@
+#geral{
+	background-image: url("Img/Tabuleiro/fundo.png");
+}
+
+#Tabuleiro{
+	background-color: white;
+	border-style: solid;
+	border-color: rgb(126, 72, 37);
+	border-width: 15px;
+}
+
+#CapturadosBrancos{
+	background-color: rgba(155, 107, 75, 0.75);
+	border-radius: 6px;
+	padding: 5px;
+}
+
+#CapturadosPretos{
+	background-color: rgba(233, 198, 175, 0.75);
+	border-radius: 6px;
+	padding: 5px;
+}
